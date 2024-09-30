@@ -1,4 +1,5 @@
-# ![RESwatch Logo]([https://via.placeholder.com/150x50?text=RESwatch](https://www2.pic-upload.de/img/37421310/reswatch3.png))
+![Reswatch Logo](https://www2.pic-upload.de/img/37421310/reswatch3.png)
+
 
 ## RESwatch: Advanced Monitoring Tool for Enhanced IT Performance
 
